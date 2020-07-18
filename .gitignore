@@ -1,0 +1,12 @@
+.ionide/
+bin/
+/cs
+dist-newstyle/
+env.sh
+/ghc-out/
+/hi
+/hs
+obj/
+target/
+/.vscode/
+*.class
