@@ -7,6 +7,8 @@ env.sh
 /hi
 /hs
 obj/
+__pycache__/
 target/
 /.vscode/
 *.class
+*.tasty

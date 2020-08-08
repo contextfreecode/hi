@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hi there!\n");
+  puts("Hi there!");
+  // printf("Hi there!\n");
 }
